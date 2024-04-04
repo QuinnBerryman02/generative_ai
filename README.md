@@ -1,5 +1,6 @@
 Git clone this repository<br>
 Need unity installed (version 2022.3.12f1 is what I used)<br>
+Need python version 3.10.6
 Need various python libraries<br>
     - torch<br>
     - diffusers<br>
