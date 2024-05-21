@@ -1,10 +1,20 @@
 Git clone this repository<br>
 Need unity installed (version 2022.3.12f1 is what I used)<br>
 Need python version 3.10.6
-Need various python libraries<br>
+Need various python libraries :<br>
+    - pip<br>
     - torch<br>
     - diffusers<br>
     - transformers<br>
+    - serializers<br>
+    - accelerate<br>
+    - auto_gptq<br>
+    - matplotlib<br>
+    - optimum<br>
+    - pywin32<br>
+    - soundfile<br>
+    - tokenizers<br>
+    
 are the main ones<br>
 One you have the project downloaded, open it in unity<br>
 Will need to turn of safe mode, due to some external library (can probably fix for release)<br>
